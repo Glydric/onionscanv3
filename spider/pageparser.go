@@ -3,7 +3,7 @@ package spider
 import (
 	"bytes"
 	"github.com/s-rah/onionscan/model"
-	"github.com/glydric/onionscan/utils"
+	"github.com/nicomitor/onionscanv3/utils"
 	"golang.org/x/net/html"
 	"io"
 	"net/url"

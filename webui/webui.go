@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/s-rah/onionscan/config"
 	"github.com/s-rah/onionscan/crawldb"
-	"github.com/glydric/onionscan/utils"
+	"github.com/nicomitor/onionscanv3/utils"
 	"html/template"
 	"log"
 	"net/http"

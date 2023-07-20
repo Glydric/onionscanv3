@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/s-rah/onionscan/config"
 	"github.com/s-rah/onionscan/report"
-	"github.com/glydric/onionscan/utils"
+	"github.com/nicomitor/onionscanv3/utils"
 )
 
 type TLSProtocolScanner struct {

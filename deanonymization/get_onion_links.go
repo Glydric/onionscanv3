@@ -5,7 +5,7 @@ import (
 	"github.com/s-rah/onionscan/config"
 	"github.com/s-rah/onionscan/model"
 	"github.com/s-rah/onionscan/report"
-	"github.com/glydric/onionscan/utils"
+	"github.com/nicomitor/onionscanv3/utils"
 	"net"
 	"net/url"
 	"regexp"

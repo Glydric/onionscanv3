@@ -6,7 +6,7 @@ import (
 	"github.com/s-rah/onionscan/report"
 
 	"github.com/s-rah/onionscan/spider"
-	"github.com/glydric/onionscan/utils"
+	"github.com/nicomitor/onionscanv3/utils"
 	"net/http"
 )
 
